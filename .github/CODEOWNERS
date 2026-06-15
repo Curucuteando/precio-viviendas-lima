@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* git@github.com:Curucuteando/precio-viviendas-lima.git
+
+# Código fuente
+/src/ git@github.com:Curucuteando/precio-viviendas-lima.git
+/scripts/ git@github.com:Curucuteando/precio-viviendas-lima.git
+
+# Tests
+/tests/ git@github.com:Curucuteando/precio-viviendas-lima.git
+
+# Documentación
+/docs/ git@github.com:Curucuteando/precio-viviendas-lima.git
+
+# Workflows y configuración de GitHub
+/.github/ git@github.com:Curucuteando/precio-viviendas-lima.git
